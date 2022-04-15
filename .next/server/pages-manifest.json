@@ -1,0 +1,18 @@
+{
+  "/[index_id]": "pages/[index_id].js",
+  "/_app": "pages/_app.js",
+  "/api/customerid": "pages/api/customerid.js",
+  "/api/itemid": "pages/api/itemid.js",
+  "/api/items": "pages/api/items.js",
+  "/api/orders": "pages/api/orders.js",
+  "/api/posts": "pages/api/posts.js",
+  "/api/properties": "pages/api/properties.js",
+  "/customeritems": "pages/customeritems.js",
+  "/customerorders/searchcustomerorder/[customeritems_id]": "pages/customerorders/searchcustomerorder/[customeritems_id].js",
+  "/": "pages/index.js",
+  "/itempage/[items_id]": "pages/itempage/[items_id].js",
+  "/items": "pages/items.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
